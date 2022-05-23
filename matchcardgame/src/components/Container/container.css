@@ -1,0 +1,30 @@
+.container {
+    background-color: #191523;
+    height: 20% !important;
+    width: 42%;
+    margin: 1% auto;
+}
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 5%;
+}
+.subheadings {
+    display: flex;
+    flex-direction: row;
+}
+h2 {
+    color: white;
+}
+button {
+    background-color: #191523;
+    color: white;
+    border: 1px solid white;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.turns {
+    color: white;
+    font-weight: bold;
+}
